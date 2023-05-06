@@ -9,7 +9,7 @@ export default function Home() {
       className={`flex min-h-screen flex-col items-center justify-between p-24 ${inter.className}`}
     >
       <h1>大家好。</h1>
-      <h1>今天非同凡響。</h1>
+      <h2>今天非同凡響。</h2>
     </main>
   );
 }
